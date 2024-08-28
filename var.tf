@@ -1,3 +1,3 @@
 variable "vpcid"{
-    default = "10.10.0.0/16"
+    default = "10.20.0.0/16"
 }
